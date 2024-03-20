@@ -1,0 +1,5 @@
+x = input()
+print(float(x))
+# x = round(float(x), 0)
+x = float(x)
+print(int(x))
